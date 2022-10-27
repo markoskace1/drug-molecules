@@ -1,0 +1,6602 @@
+{
+    "C=CC1(C2CC2C)C(C)CC1(C)C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckPfizerRule",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CC23CCNCC2OC1C3N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "O=CNC=Cn1cc2ncsc2n1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2"
+        ]
+    },
+    "C#CC1=CC2=NNCC2N=CN1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C#CCC1=CCN(N)C(=S)NC=C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CCCOCc2cnn(n2)O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC1CC2(CN(C)C1=O)NC2C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C(C)C#CC1OC2CC(N)CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "O=CC1CC2(C3CO3)CC1C1CN12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1N=CNC2(CCNC2)CC1N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "N=C(CN)NCC1CC2(N)CN1C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CCNN1C(=O)OCC1CC(=O)O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=C1C=CC2(C=O)C3C(=O)OCC132": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC1(O)CC(N)C1(C)NC(C)=N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CS(=O)(=O)C=C1CCCC2CC1C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckREOS",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC(N)CN1CC1(CN)COC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "CC(C=O)=C1CCOC(=O)C1(C)O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1C2N(CCO)C=NC(=O)C12O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1OC1C1=NNCC1CC#N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C#CC=C1OCC(C(C)=O)=C1OC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1CC2(CCC2)COC1=CC=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CC1OC(CC=NO)c2occc21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CCC23CC=CC(CC2)NC13": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C#CCNC(C(N)=O)C1=CCCO1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "CC=CC(CCOC1CC1)C(=O)O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C#CC1OC2CCN3C2C3C1C#N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CN1CC2CCC(=CC3CNC3)C21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CNCC1(N)C=COC1C1CC1C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "C=C1CC(CCC)(NC)C(NN)=N1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C=CC1=CCC2(CC)C(O)C2O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC(CO)CCC1OC1C#CCN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "CC(O)C1(C)C2NC1C1CC2CN1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CC(C#CC)(CN)C(=C)O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CN(C)C=NC12CC1NC(C)(C)C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CCN=C(C#N)NN=C(C)C1CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C#CC1(C)CN(c2cnoc2)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CC2N3CC(=C)C4C(C13)C42C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC(C(C)CO)C1(CC)CCO1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "CC12CC1CNC1CCC2(O)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=COC1=CC2(N)CC1(C)NC2C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC12NCC3CC31CC1OCC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=NNC(=O)C1C#CC#CCN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC12CC(CC(N)CN1)C(C)(N)C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC#CC1=C(C)OC(=O)CN(C)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC(C=NNC=O)NN=COC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(N)CN=C2ONC(CCO)=C21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=C(CC(C)=O)OCCON=CC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1C=NNC2(CC3CC3)CC2N1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC=C(CCN)C1(C)CC1CN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "CN=C1C2C3CCC(C32)C(C)N1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "COC=CC(O)C12CC1OC(=N)N2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CC1CC2CCOC2CC2CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C#CCC1C=CCC(=O)C12CCC2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC12CC3CN(C)C3C(CO1)O2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC=CC1CC(=NN)NNC1=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CC2(C)C3CC(O)CC1C2C3": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC12C(O)C3C4C(C(C#N)N31)C42": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC1(C)NC1C(NC)C(=O)C#N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=C1C=CCCC2OC12C(C)=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CCC1(C2C(N)C2S(N)(=O)=O)CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckREOS",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C#CC(C)=Cn1cnc2c1=CCN=2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "N=C(N)C(=O)N1CC2=CCOC2C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC#CC(C)N=Cn1cc(O)cn1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1OC2CC2C(=O)C2(C)CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "O=C1ON=CCC2C(C3CN3)CN12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC(=NN)N1C2C=CC1CC2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "N=C1C(CO)=Cc2[nH]oc(=NN)c21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(O)CC2NC2(CO)CC1N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC(CO)C1(C2CN2)CC1CN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "N#CC1CN1C1=NCCC2CC2O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1C2C=C(CO)C1S(=O)(=O)C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CN1CC2C(CC3CN3)=NOCC21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC(C)C(C)Nc1cnsn1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "C=CC1=CC(=O)NCC(C#CC)O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC=CC1=CN=CNC(CN)C=C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1C=NOC2C1=Cc1nsnc12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C2CC3C=CCC(CN2)OC13": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "O=C1CC(CO)C2OC1C1CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC12CC(=O)C1C1C=CC2CCN1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "OC12CC1CCNC1C(C3CN3)C12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "Nc1n[nH]cc1CC1=COC=CO1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "NN=C1C=CC2CCC3(CCC3)N12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=NN1C=CCNC2C1=NNC2C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C(CC(=O)OCCO)C(C)(C)O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1CC(CC)C2C(CN2C)N1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "NCCOC1=CC2CC(C=C1)CN2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "NC12CCCC1N1C=CCC1=NC2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CN=C1CC2=NNC(CN)C2N1C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1(CC)C=CC=CC1C(C)=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2"
+        ]
+    },
+    "CC1C2ON=CC=C2CC2CC21O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CC2C3CC(C13)N2C1CNC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "N=CNn1cc(CCCO)oc1=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CNC1C2OC1C1(O)C3OCC2C31": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC(C)CC(CNC=O)ONC=N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CCC1C2OC3C(N)C2C=C(C)C13": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C2NC2(CC)C23CN2CCC13": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CCN1CCON=C1OC=NN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C#CC(N)C1(N)C=CC(=C)C2NC21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C2NCC1(C)C(C)=C2CO": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=COC1CN(CC(=N)N)CC1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C=CC1C(=C)c2c(C)csc2C1N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CC2C(=O)N(C)C1C2(N)CN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(C)CCN1c1nc(O)cs1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC1NC1CC(=N)NC1CC1N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CN=C1N(O)C(=N)C(C)(N)C12CO2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CCC1=CC2CC3C2C1C1CC13O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1C=NOC2(CC2)OC1C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "OC12C3OCC3NCC13COCC32": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CC=C(c2[nH]cc(Cl)c2N)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "NC(=O)n1c(N)cc(CO)cc1=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC12CC1C(O)C(=NN)CCO2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC12CC(NC=CC#N)(C1)C1NC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1CC2CNC(=NN)CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=NN=C1CCCC2(O)COCC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CCC1=CC2(N3CC3)CCCC2=C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(N)C2CC1(N)c1c(O)ccn12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "O=CN1C=CC2CC21c1ccon1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "OC1C=CC2C=CC3NCC3C1C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC(C)(C)C1(C#N)CCC1(C)O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC1C=C(C)CNC12CC(=O)C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C#CCOC2C(N)C2(C)C=C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C1CC2=NNC3=NCCC(C1)CC23": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC#CC(C)(C=CCC=O)CC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CNC1C2CC34CN2C1C3N=CN4": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "Nc1sc2cc1C1OC1C=NN=C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CCC1(C)C2OC(=NOC)C(=O)C21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "NC12C=CC(O)C1C1C3OC2OC31": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "COCCC1NCC(C)=C(C)C1=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "CC1(C#N)CC2CCOCC2C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CN(C(=N)N)C2CCNC2C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C(O)CN2N=C(CN)CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C1=CC23CCC4COC(O2)C4(C1)C3": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=NOC2CCC12CS(C)(=O)=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckREOS",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C(OC)c1[nH]c(=O)[nH]c(=O)c1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "O=CC12C=CCC3CCN(CC1)C32": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC=C1OC2CC2(NC=O)C2NC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "N#CC1=CNc2c[nH]c(=O)n2C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "COn1cc(C(O)C=O)c(Cl)c1C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckREOS",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckRespiratory",
+            "CheckRo2"
+        ]
+    },
+    "C=C1OC(CC#CCN)CC1(C)O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC12CCC1ON=CC1OC12C=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "N#CC1C=C(C2CO2)C=CCCC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1Oc2nn(O)nc2N2CC1C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "O=CCC(=O)C1=CONC=C1N=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CC(N=CNO)C12CNC(C1)C2O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C=CC1C2CON(C=O)CC1(C)O2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC(O)(C(C)C)C(C)C(=C)C=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CN1CC=CC(C)(C(C)(N)CN)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C2NC3C(=NN)C1(C)C(C)C23": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC=C1OC2(CC2)C(C=C)C1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "O=C1CC23CC2(CN1O)C1CC1N3": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "OCCC1=NOCCn2ccnc21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CC1C(=CC2CO2)OC2CC1(O)C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "COC(=N)N(C)C(=N)OC1CC1N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C=C(C)C1OCCC2C1N2C(C)C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "O=C1CCC(C2CO2)=CC2CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC(C)(C)C1=CC(O)C2OC2C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC1C2NC(CN)C3(CO3)C12O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "N=CNCC1C2C=CCC1C1CC21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "CCC1CC2N=C(N(O)C=O)CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "CCN1CC(S(=O)(=O)C#N)NC1=S": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckREOS",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC(CC1CN1C=N)c1csnn1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=CC1=CC2(CO)NCC=C2C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C(O)C(CN)C2(C)C1N2CC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C=NNCC2=CC(C)(C)CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "N=C1CC23C(=N)NCC2CC3ON1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1CC23CCOC12C=CC1CN13": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C(C)OC12CC1C1OC1C=CO2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "OCc1cnoc1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC=C1C=CC=C(OC)C(=O)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CNC12CNC3C1NC1C2C31OC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CC12C3CC3OC13CNCC(O)C32": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CCNC(=N)C1CC=CC(=NN)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CC(O)C1C(=O)NCC1CNC=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "NC1CON=CCC(O)(CCO)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "ON=CC1ON=CNC1C1CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CCOC1C(=NO)CC(=O)C1(C)C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CC2C=C(C#N)C3CN2C3C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC1(N)CC1C1NCC(C)C1C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C(NC(=N)N)C1(C)C(N)C1CO": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckOralMacrocycles",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4"
+        ]
+    },
+    "CON=CNC1=CC(O)(C#N)CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "N=CNC(C=O)C1OC=CC1C=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "N=C1NC2CC1CCNCC2O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=COC(C#CC#N)=CC(=O)C=C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CNCC1(O)C2COC1CN2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "NCc1cccnc1CC1CCN1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "COCC1(n2ccc(Cl)c2)COC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckREOS",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckRespiratory",
+            "CheckRo2"
+        ]
+    },
+    "CCC(C)CCC1=CC(=O)N(C)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C1CC2CNC(C1)CC1OCC1C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC(NC(=NN)N(C)O)C1CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CC1CC2=NN=CCCC=C(C2)O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C(C)C1(NC(=O)C(C)O)CCC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "CNC1C(N)CC2(N)CNC(=O)C12": {
+        "accepted": [
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC=NN(C=O)C1C2CC(C)OC21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "C=CC1CC2C3CC4OC3C4(N)C12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(C#CC=O)OC=CC(C#N)O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "NCC1C2CC(CO)C1N=CNO2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC(=N)n1nnc(C)c1CC1CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "N=C1NNCC1C(C=O)CNC=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C=CC1C(C)=NN=C(NO)C1NC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CC(=O)NC=CC(O)CC(=O)NN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC12CC(O)C1CC1=C2C(=N)N=C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1=NNCC1=CC(C)CNC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "Cc1c(C2OC2C#N)[nH]c(N)c1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C1=NOC2(CNC2)CC2=CCCC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC(NCCO)C(=O)N(C)OC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(N)C=NNCc2cc(co2)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CCc1sc(=O)n2c1CN=CN2C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=CCCC(=C)C1(C)C(C)CC1N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CN1C(=O)C2(CC1C#N)OCC2=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1C=C(C#N)CC2C(=O)OCC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CCC(C)(N)C=C1CCC(C)O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C(C)C(O)CCC(CC)COC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "O=c1[nH]scc1C1=CCN=CN1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC1(C)C2C=C(C)C(=CC#N)C21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CCNC1CNC2C=CC(C)C1C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC12OC3C=CC4C1NC(=O)C34O2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC=C1C=CCCC(=O)C(=C)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CC=C1C=CC(COCC2CN2)=C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=C1CCC2CC1C(C)(N)C21CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CN=C(C)NC=CC(=N)N1CC1C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=C1CC(CC=O)CCNN1C=N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "C#CCC1NCC1N1CC1CO": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "OC(C=CC1CC1)c1nc[nH]n1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "CNN=C1C(C=NN)=CCNC1C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CNC12CC3NCC3NC1C2(C)N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "N#CC12CC(CO)(C=CCCN1)C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1C=CC=C(NC(=N)N)CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "N#CC1C(=O)CCc2nnn(O)c21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CCc1nnc(C2(C)NC2C)n1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CNCc1[nH]cc2c1C(C)N1CC21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CON=C1C=C2CN(C)CC2NN1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "COC1CC2(N)CCC3NC1(C)C32": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CC=CC2C3C(=O)CNC123": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC=C1C(CN)C2C(C)OC1C2N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CCC(C)C(=NOC)NC=CCN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1OC2=CC13NC2CC3=CC=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "O=S1(=O)C=CC(O)C2C3CNC1C32": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckREOS",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1NC2C(NN=C)C2(O)C1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CC1C2C=CC(O)(C2)C(N)C1CN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC(O)C(=NN=C)C1CN1CC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=CCN1C2CC1(C(C)O)C1OC21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "CC1C=CNC(OC2=NOCC2)=N1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1CC(C2(C)NCCC2N)N1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CCc1nc(C)n2c1C1CC1CO2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC(=C)CC(C=C)NN=CC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CCc2cn3c(c2NC1)CC3": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CCNC2CC(CC#N)C=C12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC=C(C(=O)C(=O)C#N)C(C)(C)C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CCC1OC2C=C(OC)CC1(C)C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(Cn2c(=N)ncoc2=O)CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "NC(=NC=NCCO)C1CC(=O)N1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CC(=O)N1CC(N)C12C=C(C)CC2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "Cc1c2csc1NC=NOCOC2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CC=C2C=NOC(=O)N2CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CCOC(=O)Nc1cocc1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=C1C=CC(C(C)C)CC1C#N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "CC(C)C=CCCC(=O)CCO": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "Cn1oncc1=NN=CC1CC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CC(=CCC=O)C(C)C1=CC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckPfizerRule",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1NC2C(C#N)C=CCOC12C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(O)C2CC1C1(CC1(C)CO)O2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CC(C)=C2CC3CC3CNC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "N=C1NC2CCC1C1(C3CO3)CC21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C=CC(N)C(NC=N)=NC=N1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "O=CC1CC2C3=CC=CC31C1NC21": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CC(CO)C(NC=O)=C1C=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "CC1C2CCC13C=C(CO2)CC3N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "NC1C2=NOCC2(O)C2NCC12O": {
+        "accepted": [
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "NCCN=C1CC(CN)C(=O)N1O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "CN=C1N=COC2=NOCC2=C1Cl": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C1=COCC2(C1)OC2CN1CCC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC#Cc1nc(NC(N)=S)co1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1OC2C3C4OC4C(O)C1C23N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1C=CCC(=CC=NOC=O)O1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "CCC1C2C(CN2CC)ON1C=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "COC12CN(CCC3(CO)NC31)C2": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC(OC=O)C1CN1N(C)C(N)=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "O=C1OCCN1C1=NC=NCCC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CC1=CCC2C(=O)C(O1)C1C2N1C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C#CC=C(CN1CC1)C(=O)N(C)C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=C1C2CC(C)(O2)C(N)C12CN2C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "N#CC12C=CC(CS1(=O)=O)C2O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "C=CC1C=CC2CCC1N2C(C)C": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "O=CC=C1CNC23CNCC12NC3": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "C=C1CCC(=C2COCO2)C1=NO": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "N=CNC1C2=C(CCC2)C2C(N)C12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC12C3C=CC4C3OCC1C(O)C42": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "C=CCCn1c(=O)[nH]sc1=NC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "C#CCNN1C(=O)CC2(C#N)CC12": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CCC12CNCC(C1)N2C(C)C=O": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    },
+    "CCC1=NN=C(C)C(=N)N(C=N)C1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1CCNC1C1NCCNC1=N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CCC1CNCC(O)CC1N": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckXuRule"
+        ]
+    },
+    "O=C1NNC2(CO)CCNC2C1O": {
+        "accepted": [
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckOralMacrocycles",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckXuRule"
+        ]
+    },
+    "CC1CC2OCCC3CC(CC12)N3": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "O=CNOC1C2CC3C(C2=NO)C31": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo3"
+        ]
+    },
+    "C=C1C(C(=N)N)CC2C3CC1C2N3": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckXuRule"
+        ]
+    },
+    "CC1(C2(C)CCN3CC32C)CNC1": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckXuRule"
+        ]
+    },
+    "CCC1(N)CNC(CN)C1OC": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckCNS",
+            "CheckGhoseRule",
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory",
+            "CheckRo2",
+            "CheckRo3"
+        ]
+    },
+    "C#CC12CC=NN1CC2CCCN": {
+        "accepted": [
+            "CheckBeyondRo5",
+            "CheckCNS",
+            "CheckEganRule",
+            "CheckGSKRule",
+            "CheckGhoseRule",
+            "CheckLipinskiRule",
+            "CheckOralMacrocycles",
+            "CheckRo2",
+            "CheckRo3",
+            "CheckRo4",
+            "CheckVeberRule",
+            "CheckXuRule"
+        ],
+        "rejected": [
+            "CheckOpreaRule",
+            "CheckPfizerRule",
+            "CheckREOS",
+            "CheckRespiratory"
+        ]
+    }
+}
